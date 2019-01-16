@@ -1,6 +1,5 @@
 
 #Language Program
-#by Keary Mobley
 
 import pygame
 from graphics import *
